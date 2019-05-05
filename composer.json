@@ -1,7 +1,7 @@
 {
   "name": "negarang/graphics-utils",
   "description": "Utility Functions for Graphics.",
-  "type": "project",
+  "type": "library",
   "keywords": ["graphics", "designer", "util"],
   "homepage": "http://negarang.milad-ab.ir/graphics-utils",
   "support": {
