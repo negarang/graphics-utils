@@ -1,0 +1,29 @@
+{
+  "name": "negarang/graphics-utils",
+  "description": "Utility Functions for Graphics.",
+  "type": "project",
+  "keywords": ["graphics", "designer", "util"],
+  "homepage": "http://negarang.milad-ab.ir/graphics-utils",
+  "support": {
+    "source": "https://github.com/milad-ab/graphics-utils"
+  },
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Milad Abdollahnia",
+      "email": "milad_abdollahnia@yahoo.com",
+      "homepage": "http://milad-ab.ir",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Negarang\\GraphicsUtils\\": "src/GraphicsUtils"
+    }
+  },
+  "require": {
+    "php": "^5.6 || ^7.0",
+    "ext-gd": "*"
+  }
+}
